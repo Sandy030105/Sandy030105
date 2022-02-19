@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Sandy030105
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Sandy
 - 🌱 I’m currently learning python
 
 <!---
